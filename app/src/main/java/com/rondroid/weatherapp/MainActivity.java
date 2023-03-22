@@ -31,6 +31,8 @@ public class MainActivity extends AppCompatActivity {
         conditionTV=findViewById(R.id.idTVCondition);
         weatherRV = findViewById(R.id.idRVWeather);
         //cityEdit = findViewById(R.id.idEditCity);
+        //please check this variable and initialise it
+
         backIV = findViewById(R.id.idIVBack);
         iconIV = findViewById(R.id.idIVIcon);
         searchIV = findViewById(R.id.idIVSearch);
